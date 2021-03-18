@@ -1,0 +1,26 @@
+/* common  */
+* {
+	Box-sizing: border-box;
+	Margin: 0;
+	Padding: 0;
+}
+
+main {
+    width: 80%;
+    margin: 10px auto;
+}
+
+.box {
+    width: 70%;
+}
+
+/* specifici box  */
+.violet {
+    height: 100px;
+    background-color: #E579E6;
+}
+
+.senape {
+    height: 400px;
+    background-color: #E579E6;
+}
