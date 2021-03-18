@@ -16,9 +16,14 @@ main {
 
 
 /* specifici box  */
-.violet {
+.pink {
     height: 50px;
     background-color: #E579E6;
+}
+
+.violet {
+    height: 35px;
+    background-color: #8801FE;
 }
 
 .senape {
@@ -41,7 +46,7 @@ main {
 
 /* BOX BLUE  */
 section {
-    background: blue;
+    background: #0186FF;
     padding-bottom: 1%;
 }
 section::after {
