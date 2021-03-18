@@ -10,7 +10,7 @@ main {
     margin: 10px auto;
 }
 .box {
-    margin: 10px auto;
+    margin: 1% auto;
     width: 70%;
 }
 
@@ -42,6 +42,7 @@ main {
 /* BOX BLUE  */
 section {
     background: blue;
+    padding-bottom: 1%;
 }
 section::after {
     content: "";
@@ -50,18 +51,19 @@ section::after {
 }
 
 .right {
-    margin-left: 10px;
+    margin-left: 1%;
     float: right;
 }
 
 .left {
-    margin-right: 10px;
+    margin-right: 1%;
     float: left;
 }
 
 .center {
     float: left;
-    background-color: red;
+    background-color: #ABCFE7;
     height: 340px;
-    width: 50%;
+    width: 58%;
 }
+
